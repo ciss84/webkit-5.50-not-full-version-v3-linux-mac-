@@ -1,4 +1,4 @@
-# webkit-based-5.50-And-run-5.53/5.53-01/5.55-not-full-version-v3
+# Webkit PoC for 5.50 - 5.55 (Linux/Mac Python version implementation by iSn0we) by Ciss84. Added work by ShadixAced.
 # NOTE : Al-Azif Exploit Host now works on 5.53-01 and 5.55 as I've tested it. (17/05/18)
 # changes made :update server for ps4 5.53/5.53-01/5.55
 ## Double Note : Al-Azif Exploit Host is often detected as a virus for antiviruses. It's a false positive. To use this program, exclude it using your Antivirus parameters or disable it for the time you need.
